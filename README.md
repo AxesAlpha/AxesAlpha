@@ -18,9 +18,11 @@ You can find me on [![Twitter][1.2]][1]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 
-![](https://img.shields.io/badge/Code-C%23-blue)
+![](https://img.shields.io/badge/Code-C%23-blue) 
+![](https://img.shields.io/badge/Code-JavaScript-lightgrey)
+![](https://img.shields.io/badge/Code-HTML-red)
 
 [1]: https://twitter.com/AxesAlpha
-
+(Still Working On Profile When I have Time off)
 # Fun Fact
 I'm a profesional musician that studied music at UNISA for 5 years while I was in high school. I achived a Music Theory Grade 5 and Music Practical Grade 7
