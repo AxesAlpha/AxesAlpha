@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 https://img.shields.io/badge/Code-C%23-blue
 
+(https://img.shields.io/badge/Code-C%23-blue)
+
+
+![](https://img.shields.io/badge/Code-C%23-blue)
