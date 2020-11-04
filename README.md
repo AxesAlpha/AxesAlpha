@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 You can find me on [![Twitter][1.2]][1], [![Instagram][2.2]][1].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]:https://www.flaticon.com/premium-icon/icons/svg/2175/2175198.svg
+[2.2]:https://www.flaticon.com/premium-icon/icons/svg/2175/2175198.png
 
 ![](https://img.shields.io/badge/Code-C%23-blue)
 
