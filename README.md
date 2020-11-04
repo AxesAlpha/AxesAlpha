@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-You can find me on [![Twitter][1.2]][1], [![Instagram][1.1]][1].
+You can find me on [![Twitter][1.2]][1], [![Instagram][3.3]][3].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]:https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png
