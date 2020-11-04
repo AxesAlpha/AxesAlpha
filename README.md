@@ -21,11 +21,15 @@ You can find me on [![Twitter][1.2]][1]
 ![](https://img.shields.io/badge/Code-C%23-blue) 
 ![](https://img.shields.io/badge/Code-JavaScript-lightgrey)
 ![](https://img.shields.io/badge/Code-HTML-red)
+
 ![](https://img.shields.io/badge/Code-JQuery-orange)
+
 ![](https://img.shields.io/badge/Framework-MVC-yellow)
 ![](https://img.shields.io/badge/Framework-.Net-yellowgreen)
 ![](https://img.shields.io/badge/Framework-.NetCore-green)
+
 ![](https://img.shields.io/badge/Platform-UWP-brightgreen)
+
 ![](https://img.shields.io/badge/OS-WIndows-blue)
 
 [1]: https://twitter.com/AxesAlpha
