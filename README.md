@@ -34,6 +34,7 @@ You can find me on [![Twitter][1.2]][1]
 ![](https://img.shields.io/badge/Framework-MVC-yellow)
 ![](https://img.shields.io/badge/Framework-.Net-yellowgreen)
 ![](https://img.shields.io/badge/Framework-.NetCore-green)
+![](https://img.shields.io/badge/Framework-Bootstrap-lightgrey)
 <!-- Platfrom -->
 ![](https://img.shields.io/badge/Platform-UWP-brightgreen)
 ![](https://img.shields.io/badge/Platform-Microsoft-yellow)
@@ -41,7 +42,7 @@ You can find me on [![Twitter][1.2]][1]
 ![](https://img.shields.io/badge/Platform-Android-lightgrey)
 <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Windows-blue)
-![](https://img.shields.io/badge/Framework-Bootstrap-lightgrey)
+
 
 (Still Working On Profile When I have Time off)
 # Fun Fact
