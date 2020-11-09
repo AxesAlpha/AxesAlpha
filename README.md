@@ -34,7 +34,7 @@ You can find me on [![Twitter][1.2]][1]
 
 ![](https://img.shields.io/badge/Platform-UWP-brightgreen)
 
-![](https://img.shields.io/badge/OS-WIndows-blue)
+![](https://img.shields.io/badge/OS-Windows-blue)
 
 [1]: https://twitter.com/AxesAlpha
 (Still Working On Profile When I have Time off)
