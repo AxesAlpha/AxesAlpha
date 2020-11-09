@@ -20,7 +20,8 @@ You can find me on [![Twitter][1.2]][1]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 
-#Technologies, programming experiences and tools
+# Technologies, programming experiences and tools
+
 ![](https://img.shields.io/badge/Code-C%23-blue) 
 ![](https://img.shields.io/badge/Code-JavaScript-lightgrey)
 ![](https://img.shields.io/badge/Code-HTML-red)
