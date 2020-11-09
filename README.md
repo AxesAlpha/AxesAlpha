@@ -29,7 +29,7 @@ You can find me on [![Twitter][1.2]][1]
 ![](https://img.shields.io/badge/Code-HTML-red)
 ![](https://img.shields.io/badge/Code-SQL-blue)
 <!-- Libraries -->
-![](https://img.shields.io/badge/Code-JQuery-orange)
+![](https://img.shields.io/badge/Library-JQuery-orange)
 <!-- Frameworks -->
 ![](https://img.shields.io/badge/Framework-MVC-yellow)
 ![](https://img.shields.io/badge/Framework-.Net-yellowgreen)
