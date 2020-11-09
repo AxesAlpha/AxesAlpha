@@ -25,6 +25,7 @@ You can find me on [![Twitter][1.2]][1]
 ![](https://img.shields.io/badge/Code-C%23-blue) 
 ![](https://img.shields.io/badge/Code-JavaScript-lightgrey)
 ![](https://img.shields.io/badge/Code-HTML-red)
+![](https://img.shields.io/badge/Code-SQL-blue)
 <!-- Libraries -->
 ![](https://img.shields.io/badge/Code-JQuery-orange)
 <!-- Frameworks -->
