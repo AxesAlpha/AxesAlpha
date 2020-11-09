@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 You can find me on [![Twitter][1.2]][1]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
+[1]: https://twitter.com/AxesAlpha
 
 # Technologies, programming experiences and tools
 <!-- Coding Experiences-->
@@ -37,7 +38,6 @@ You can find me on [![Twitter][1.2]][1]
 <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Windows-blue)
 ![](https://img.shields.io/badge/Framework-Bootstrap-lightgrey)
-[1]: https://twitter.com/AxesAlpha
 (Still Working On Profile When I have Time off)
 # Fun Fact
 I'm a profesional musician that studied music at UNISA for 5 years while I was in high school. I achieved a Music Theory Grade 5 and Music Practical Grade 7
