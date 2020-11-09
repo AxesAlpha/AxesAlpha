@@ -24,6 +24,7 @@ You can find me on [![Twitter][1.2]][1]
 # Technologies, programming experiences and tools
 <!-- Coding Experiences-->
 ![](https://img.shields.io/badge/Code-C%23-blue) 
+![](https://img.shields.io/badge/Code-Java-yellow)
 ![](https://img.shields.io/badge/Code-JavaScript-lightgrey)
 ![](https://img.shields.io/badge/Code-HTML-red)
 ![](https://img.shields.io/badge/Code-SQL-blue)
@@ -35,6 +36,9 @@ You can find me on [![Twitter][1.2]][1]
 ![](https://img.shields.io/badge/Framework-.NetCore-green)
 <!-- Platfrom -->
 ![](https://img.shields.io/badge/Platform-UWP-brightgreen)
+![](https://img.shields.io/badge/Platform-Microsoft-yellow)
+![](https://img.shields.io/badge/Platform-Azure-red)
+![](https://img.shields.io/badge/Platform-Android-lightgrey)
 <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Windows-blue)
 ![](https://img.shields.io/badge/Framework-Bootstrap-lightgrey)
