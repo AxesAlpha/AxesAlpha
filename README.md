@@ -38,6 +38,7 @@ You can find me on [![Twitter][1.2]][1]
 <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Windows-blue)
 ![](https://img.shields.io/badge/Framework-Bootstrap-lightgrey)
+
 (Still Working On Profile When I have Time off)
 # Fun Fact
 I'm a profesional musician that studied music at UNISA for 5 years while I was in high school. I achieved a Music Theory Grade 5 and Music Practical Grade 7
