@@ -1,5 +1,5 @@
 # Welcome
-<img src="https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif" vertical-align: middle, text-align: center;>
+<img src="https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif" align:"centre">
 My name is Armand Fourie. I'm a software engineer currently studying for my MCSE in Data Analytics. If you have any questions, offers or concerns, you can contact me on axesalphaza@gmail.com
 <!--
 **AxesAlpha/AxesAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
