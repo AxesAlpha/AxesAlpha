@@ -1,5 +1,5 @@
 # Welcome
-<p align="center" width="100%" background-color = "black" >
+<p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif">
 </p>
 My name is Armand Fourie. I'm a software engineer currently studying for my MCSE in Data Analytics. If you have any questions, offers or concerns, you can contact me on axesalphaza@gmail.com
