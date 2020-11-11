@@ -1,4 +1,4 @@
-# Welcome <iframe src="https://giphy.com/embed/XLsDo3hdxWpdm" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/barkpost-dogs-computer-barkpost-XLsDo3hdxWpdm">via GIPHY</a></p>
+# Welcome <img src="https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif width=30px">
 My name is Armand Fourie. I'm a software engineer currently studying for my MCSE in Data Analytics. If you have any questions, offers or concerns, you can contact me on axesalphaza@gmail.com
 <!--
 **AxesAlpha/AxesAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
