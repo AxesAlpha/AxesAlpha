@@ -2,7 +2,7 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif">
 </p>
-My name is Armand Fourie. I'm a software engineer currently studying for my MCSE in Data Analytics. If you have any questions, offers or concerns, you can contact me on axesalphaza@gmail.com
+My name is Armand Fourie. I'm a software engineer currently studying for my MCSE in Data Analytics. If you have any questions, offers or concerns, you can contact me on axesalphaza@gmail.com. I've removed all the clutter from my repositories and will reupload all of my projects in the following week or so
 <!--
 **AxesAlpha/AxesAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,7 +46,5 @@ You can find me on [![Twitter][1.2]][1]
 <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Windows-blue)
 
-
-(Still Working On Profile When I have Time off)
 # Fun Fact
 I'm a professional musician that studied music at UNISA for 5 years while I was in high school. I achieved a Music Theory Grade 5 and Music Practical Grade 7
