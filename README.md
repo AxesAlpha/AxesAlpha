@@ -51,6 +51,3 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]
 
 # Fun Fact
 I'm a professional musician that studied music at UNISA for 5 years while I was in high school. I achieved a Music Theory Grade 5 and Music Practical Grade 7
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/cmvnk)
