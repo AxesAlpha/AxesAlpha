@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://i.stack.imgur.com/gVE0j.png
+[3.2]: https://i.stack.imgur.com/gVE0j.png
 
 [1]: https://twitter.com/AxesAlpha
-[2]: https://www.linkedin.com/in/armand-fourie-428b721bb/
+[3]: https://www.linkedin.com/in/armand-fourie-428b721bb/
 
 # Technologies, programming experiences and tools
 <!-- Coding Experiences-->
