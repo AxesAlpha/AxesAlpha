@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- Links to your social media accounts -->
-You can find me on [![Twitter][1.2]][1]
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
+
 [1]: https://twitter.com/AxesAlpha
+[2]: https://www.linkedin.com/in/armand-fourie-428b721bb/
 
 # Technologies, programming experiences and tools
 <!-- Coding Experiences-->
