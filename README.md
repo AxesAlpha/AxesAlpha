@@ -2,7 +2,7 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif">
 </p>
-My name is Armand Fourie. I'm a software engineer currently studying for my MCSE in Data Analytics. If you have any questions, offers or concerns, you can contact me on kryptonicstudios.info@gmail.com. I've removed all the clutter from my repositories and will reupload all of my projects in the following week or so. I am still actively trying to work on this readme
+My name is Armand Fourie. I'm a software engineer currently studying for my MCSE in Data Analytics. If you have any questions, offers or concerns, you can contact me on axesalphaza@gmail.com. I've removed all the clutter from my repositories and will reupload all of my projects in the following week or so. I am still actively trying to work on this readme
 <!--
 **AxesAlpha/AxesAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- Links to your social media accounts -->
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2]
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
+[2.2]: https://i.stack.imgur.com/gVE0j.png
 
 [1]: https://twitter.com/AxesAlpha
 [2]: https://www.linkedin.com/in/armand-fourie-428b721bb/
@@ -51,3 +51,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2]
 
 # Fun Fact
 I'm a professional musician that studied music at UNISA for 5 years while I was in high school. I achieved a Music Theory Grade 5 and Music Practical Grade 7
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/cmvnk)
