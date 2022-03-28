@@ -2,9 +2,9 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif">
 </p>
-My name is Armand Fourie. I'm a software engineer that is always trying to better my own set of skills. My long term goal is to become a senior full stack developer. I'm currently working on a website to substitute as my CV, why? Because it's fancy and I'm a programmer. I'm also working on an open world fantasy medieval type RPG and a polygon style story driven first person shooter. 
-
-If you have any questions, offers or concerns, you can contact me on axesalphaza@gmail.com. I've removed all the clutter from my repositories and will reupload all of my projects in the following week or so. I am still actively trying to work on this readme (Whenever I get the time)
+Talented software engineer with industrious and systematic approach to learning information. Open and clear worker with disciplined execution and methodical nature.
+Knowledge of Web, mobile, game and desktop development and programming, Windows Server ,SharePoint Server and Advanced Server Infrastructure development and configuration with Cybersecurity, Database administration and provisioning with SQL skills. 
+Strong development skills with ability to work with minimal supervision. Fantastic attention to detail. Dedicated to solutions-oriented problem-solving and critical thinking. Programmer by day, musician by night
 <!--
 **AxesAlpha/AxesAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
