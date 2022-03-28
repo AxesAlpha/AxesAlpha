@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Links to your social media accounts -->
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]
+For more information www.armandleonfourie.co.za
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [3.2]: https://i.stack.imgur.com/gVE0j.png
