@@ -2,9 +2,7 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif">
 </p>
-Talented software engineer with industrious and systematic approach to learning information. Open and clear worker with disciplined execution and methodical nature.
-Knowledge of Web, mobile, game and desktop development and programming, Windows Server ,SharePoint Server and Advanced Server Infrastructure development and configuration with Cybersecurity, Database administration and provisioning with SQL skills. 
-Strong development skills with ability to work with minimal supervision. Fantastic attention to detail. Dedicated to solutions-oriented problem-solving and critical thinking. Programmer by day, musician by night
+A talented software engineer with an industrious and systematic approach to learning information. An open and clear worker with disciplined execution and a methodical nature. Knowledge of web, mobile, game and desktop development and programming, Windows Server, SharePoint Server and advanced server infrastructure development and configuration with Cybersecurity, Database administration and provisioning with SQL skills. Strong development skills with the ability to work with minimal supervision. Dedicated to solution-oriented problem-solving and critical thinking with a fantastic attention to detail. Programmer by day, musician by night with university level qualifications.
 <!--
 **AxesAlpha/AxesAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
