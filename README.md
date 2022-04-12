@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Links to your social media accounts -->
-For more information www.armandleonfourie.co.za
+For more information <a href="https://www.armandleonfourie.co.za">My Website<a/> 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [3.2]: https://i.stack.imgur.com/gVE0j.png
