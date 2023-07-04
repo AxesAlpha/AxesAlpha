@@ -41,6 +41,7 @@ For more information <a href="https://www.armandleonfourie.co.za">click here<a/>
 ![](https://img.shields.io/badge/Framework-.Net-yellowgreen)
 ![](https://img.shields.io/badge/Framework-.NetCore-green)
 ![](https://img.shields.io/badge/Framework-Bootstrap-lightgrey)
+![](https://img.shields.io/badge/Framework-Angular-blue)
 <!-- Platfrom -->
 ![](https://img.shields.io/badge/Platform-UWP-brightgreen)
 ![](https://img.shields.io/badge/Platform-Microsoft-yellow)
