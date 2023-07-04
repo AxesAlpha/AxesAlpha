@@ -47,7 +47,7 @@ For more information <a href="https://www.armandleonfourie.co.za">click here<a/>
 ![](https://img.shields.io/badge/Platform-Microsoft-yellow)
 ![](https://img.shields.io/badge/Platform-Azure-red)
 ![](https://img.shields.io/badge/Platform-Android-lightgrey)
-![](https://img.shields.io/badge/Platform-Web-grey)
+![](https://img.shields.io/badge/Platform-Web-orange)
 <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Windows-blue)
 
