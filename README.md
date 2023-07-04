@@ -50,6 +50,7 @@ For more information <a href="https://www.armandleonfourie.co.za">click here<a/>
 ![](https://img.shields.io/badge/Platform-Web-orange)
 <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Windows-blue)
+![](https://img.shields.io/badge/OS-Linux-darkblue)
 
 # Fun Fact
 I'm a professional musician that studied music at UNISA for 5 years while I was in high school. I achieved a Music Theory Grade 5 and Music Practical Grade 7
