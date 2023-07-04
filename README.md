@@ -30,6 +30,7 @@ For more information <a href="https://www.armandleonfourie.co.za">click here<a/>
 # Technologies, programming experiences and tools
 <!-- Coding Experiences-->
 ![](https://img.shields.io/badge/Code-C%23-blue) 
+![](https://img.shields.io/badge/Code-TypeScript-lightblue) 
 ![](https://img.shields.io/badge/Code-Java-yellow)
 ![](https://img.shields.io/badge/Code-JavaScript-lightgrey)
 ![](https://img.shields.io/badge/Code-HTML-red)
